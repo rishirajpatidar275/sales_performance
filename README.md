@@ -127,7 +127,9 @@ ________________________________________
 
 ________________________________________
 
+Dashboard Preview: https://github.com/rishirajpatidar275/sales_performance/blob/main/E-commerce_sales_performance_dashboard.png
+
 # Conclusion
 This dashboard transforms raw e-commerce data into actionable insights, enabling businesses to make smarter decisions in sales, marketing, and operations. It serves as a powerful tool for analysts, managers, and stakeholders to monitor and improve overall performance.
-6.	Screenshots / Demos
-Dashboard Preview: https://github.com/rishirajpatidar275/sales_performance/blob/main/E-commerce_sales_performance_dashboard.png
+
+
